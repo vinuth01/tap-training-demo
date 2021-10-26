@@ -1,5 +1,6 @@
 # TAP-Training-Demo
-TAP training session \n
+TAP training session 
+
 1.Learned about VCS
 
 2.Learned about DVCS 
